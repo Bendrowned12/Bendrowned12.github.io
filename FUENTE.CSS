@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Bitcount;
+    src: url(static/BricolageGrotesque-Light.ttf)
+}
+
+h1{
+
+font-family: Bricolage;
+font-weight: 500;
+font-size:80px;
+
+}
+
